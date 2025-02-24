@@ -21,6 +21,7 @@ crew-try/
 │       │   └── research_crew/
 │       │       ├── config/
 │       │       │   └── tasks.yaml
+│       │       │   └── agents.yaml
 │       │       └── research_crew.py
 │       ├── main.py
 │       └── __init__.py
